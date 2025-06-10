@@ -29,7 +29,10 @@ This clone is developed **strictly for learning and demonstration purposes only*
 ---
 
 ## 📷 Screenshots
-![Screenshot 2025-06-10 160730](https://github.com/user-attachments/assets/02ee555f-e2a3-4b1d-a785-f6fe42aa450d)
+
+![Screenshot 2025-06-10 164342](https://github.com/user-attachments/assets/77409439-f313-49be-9feb-6c6b2971e02e)
+
+
 
 ## 📄 License
 This project is open source and available under the MIT License.
